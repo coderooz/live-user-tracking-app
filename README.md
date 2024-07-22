@@ -1,5 +1,7 @@
 # Live User Tracking App
 
+![Realtime-tracker Screenshot](https://github.com/coderooz/live-user-tracking-app/blob/main/public/images/realtime-tracker%20screenshot.png)
+
 A real-time user tracking application that displays the locations of connected users on a map using Socket.io and Leaflet.js. This application captures users' geolocation data from their browsers and visualizes it on a map.
 
 ## Features
