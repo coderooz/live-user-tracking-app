@@ -26,14 +26,10 @@ cd live-user-tracking-app
 2. **Install dependencies:**
 
 ```bash
-npm install
+npm install socket.io express ejs
 ```
 
-3. **Setup MongoDB (Optional):**
-
-If you wish to use MongoDB for persistent storage, ensure MongoDB is installed and running. Update the MongoDB connection string in `app.js` accordingly.
-
-4. **Run the application:**
+3. **Run the application:**
 
 ```bash
 node app.js
